@@ -6,7 +6,7 @@ Brain.Game = function()
 	this.miscTimer;
 	this.answerTimer;
 	this.answerDuration = 5;
-	this.duration = 61; // Duration of exercise in seconds
+	this.duration = 31; // Duration of exercise in seconds
 	this.level = 1;
 	this.levelSprite;
 	this.bubbles = [];
