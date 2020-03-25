@@ -1,0 +1,68 @@
+{"frames": [
+
+{
+	"filename": "Angela_Anger.jpg",
+	"frame": {"x":0,"y":0,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Angela_Disgust.jpg",
+	"frame": {"x":512,"y":0,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Angela_Fear.jpg",
+	"frame": {"x":1024,"y":0,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Angela_Happy.jpg",
+	"frame": {"x":1536,"y":0,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Angela_Neutral.jpg",
+	"frame": {"x":0,"y":640,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Angela_Sad.jpg",
+	"frame": {"x":512,"y":640,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Angela_Surprise.jpg",
+	"frame": {"x":1024,"y":640,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "female0.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":1280},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:efd22125d25459bd1d778813d54d38e8:7a48c828d214d4ad1064c5b1cf756544:2baddfd52b18657b7df46233efee56b3$"
+}
+}

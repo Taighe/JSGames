@@ -1,0 +1,28 @@
+{"frames": {
+
+"button-cancel-0001.png":
+{
+	"frame": {"x":0,"y":0,"w":220,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":50},
+	"sourceSize": {"w":220,"h":50}
+},
+"button-cancel-0002.png":
+{
+	"frame": {"x":220,"y":0,"w":220,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":50},
+	"sourceSize": {"w":220,"h":50}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "button.png",
+	"format": "RGBA8888",
+	"size": {"w":440,"h":50},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8250c6846c1dea253c43534327c0d1be:c26b67316909ca96d0bea6b39c535838:c39245c3a59c1712d97d26c862b4cbc5$"
+}
+}

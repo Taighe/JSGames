@@ -1,0 +1,68 @@
+{"frames": [
+
+{
+	"filename": "Patricia_Anger.jpg",
+	"frame": {"x":0,"y":0,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Patricia_Disgust.jpg",
+	"frame": {"x":512,"y":0,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Patricia_Fear.jpg",
+	"frame": {"x":1024,"y":0,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Patricia_Happy.jpg",
+	"frame": {"x":1536,"y":0,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Patricia_Neutral.jpg",
+	"frame": {"x":0,"y":640,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Patricia_Sad.jpg",
+	"frame": {"x":512,"y":640,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Patricia_Surprise.jpg",
+	"frame": {"x":1024,"y":640,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "female15.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":1280},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4659a815383b0140fce23c30e6c4bfa7:60425c8d28849135a220ca29afb679f2:c9146f22886ffad8709635d1ea4431c6$"
+}
+}

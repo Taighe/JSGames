@@ -1,0 +1,68 @@
+{"frames": [
+
+{
+	"filename": "Jacqueline_Anger.jpg",
+	"frame": {"x":0,"y":0,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Jacqueline_Disgust.jpg",
+	"frame": {"x":512,"y":0,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Jacqueline_Fear.jpg",
+	"frame": {"x":1024,"y":0,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Jacqueline_Happy.jpg",
+	"frame": {"x":1536,"y":0,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Jacqueline_Neutral.jpg",
+	"frame": {"x":0,"y":640,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Jacqueline_Sad.jpg",
+	"frame": {"x":512,"y":640,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Jacqueline_Surprise.jpg",
+	"frame": {"x":1024,"y":640,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "female7.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":1280},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:33d5957e7085efbeeeede8e8eee1602c:2060a651ac9bd688b557f3afb9a95c27:581581794a413e6abc6d7a3b392a24f8$"
+}
+}

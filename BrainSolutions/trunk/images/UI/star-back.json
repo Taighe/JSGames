@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "star-back.png",
+	"frame": {"x":0,"y":0,"w":260,"h":247},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":247},
+	"sourceSize": {"w":260,"h":247}
+},
+{
+	"filename": "star-back5.png",
+	"frame": {"x":260,"y":0,"w":260,"h":247},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":247},
+	"sourceSize": {"w":260,"h":247}
+},
+{
+	"filename": "star-back10.png",
+	"frame": {"x":520,"y":0,"w":260,"h":247},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":247},
+	"sourceSize": {"w":260,"h":247}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "star-back.png",
+	"format": "RGBA8888",
+	"size": {"w":780,"h":247},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5fd5ffc02c04853eb0dbf4206cb398ac:a7cc7acc279d8ba13db97cf36f367901:4219a2a7c3567e174f3d57834451578e$"
+}
+}

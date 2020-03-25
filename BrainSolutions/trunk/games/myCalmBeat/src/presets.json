@@ -1,0 +1,37 @@
+{
+	"Data" :[{
+		"Date" : "1st Jan 2017",
+		"Mobile" : 1,
+		"Website" : 0
+	},
+	{
+		"Date" : "2nd Jan 2017",
+		"Mobile" : 0,
+		"Website" : 2
+	},
+	{
+		"Date" : "3rd Jan 2017",
+		"Mobile" : 2,
+		"Website" : 2
+	},
+	{
+		"Date" : "4th Jan 2017",
+		"Mobile" : 4,
+		"Website" : 2
+	},
+	{
+		"Date" : "5th Jan 2017",
+		"Mobile" : 1,
+		"Website" : 5
+	},
+	{
+		"Date" : "6th Jan 2017",
+		"Mobile" : 2,
+		"Website" : 10
+	},
+	{
+		"Date" : "4th Feb 2017",
+		"Mobile" : 8,
+		"Website" : 8
+	}]
+}

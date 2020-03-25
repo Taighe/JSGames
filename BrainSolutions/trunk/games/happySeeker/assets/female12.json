@@ -1,0 +1,68 @@
+{"frames": [
+
+{
+	"filename": "Molly_Anger.jpg",
+	"frame": {"x":0,"y":0,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Molly_Disgust.jpg",
+	"frame": {"x":512,"y":0,"w":512,"h":641},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":641},
+	"sourceSize": {"w":512,"h":641}
+},
+{
+	"filename": "Molly_Fear.jpg",
+	"frame": {"x":1024,"y":0,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Molly_Happy.jpg",
+	"frame": {"x":1536,"y":0,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Molly_Neutral.jpg",
+	"frame": {"x":0,"y":641,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Molly_Sad.jpg",
+	"frame": {"x":512,"y":641,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Molly_Surprise.jpg",
+	"frame": {"x":1024,"y":641,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "female12.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":1281},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:719aa1dc5238c0a74ed49a05e716a40a:bd5e9a0840e35c25e3ffb79219b8fb92:dd8a9526296ca2951f7195b1e2b31fec$"
+}
+}

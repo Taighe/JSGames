@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "happy0.jpg",
+	"frame": {"x":0,"y":0,"w":480,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":320},
+	"sourceSize": {"w":480,"h":320}
+},
+{
+	"filename": "happy1.jpg",
+	"frame": {"x":0,"y":320,"w":480,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":320},
+	"sourceSize": {"w":480,"h":320}
+},
+{
+	"filename": "happy2.jpg",
+	"frame": {"x":0,"y":640,"w":480,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":320},
+	"sourceSize": {"w":480,"h":320}
+},
+{
+	"filename": "happy3.jpg",
+	"frame": {"x":0,"y":960,"w":480,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":320},
+	"sourceSize": {"w":480,"h":320}
+},
+{
+	"filename": "happy4.jpg",
+	"frame": {"x":0,"y":1280,"w":480,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":320},
+	"sourceSize": {"w":480,"h":320}
+},
+{
+	"filename": "happy5.jpg",
+	"frame": {"x":0,"y":1600,"w":480,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":320},
+	"sourceSize": {"w":480,"h":320}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "happy_child.png",
+	"format": "RGBA8888",
+	"size": {"w":480,"h":1920},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b7aaf7224b1bfc861fa7be0552cf6a0b:6d302ecab7a5f797fce566894f9ceac9:bfcc2e2bbb948921365178d896a821fa$"
+}
+}

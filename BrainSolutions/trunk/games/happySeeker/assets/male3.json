@@ -1,0 +1,68 @@
+{"frames": [
+
+{
+	"filename": "Cornell_Anger.jpg",
+	"frame": {"x":0,"y":0,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Cornell_Disgust.jpg",
+	"frame": {"x":512,"y":0,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Cornell_Fear.jpg",
+	"frame": {"x":1024,"y":0,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Cornell_Happy.jpg",
+	"frame": {"x":1536,"y":0,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Cornell_Neutral.jpg",
+	"frame": {"x":0,"y":640,"w":512,"h":641},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":641},
+	"sourceSize": {"w":512,"h":641}
+},
+{
+	"filename": "Cornell_Sad.jpg",
+	"frame": {"x":512,"y":640,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+},
+{
+	"filename": "Cornell_Surprise.jpg",
+	"frame": {"x":1024,"y":640,"w":512,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":640},
+	"sourceSize": {"w":512,"h":640}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "male3.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":1281},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1ff3b93e43226e7f493fad2dfc9e1256:911747dc4881d570cefa95210f56b37e:09ba8738d15fd68a17d4c5029f646b8b$"
+}
+}

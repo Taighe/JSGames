@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Exercise - Thought Tamer</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1, IE=9">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="apple-mobile-web-app-title" content="MemTask">
+    <meta name="viewport" content="initial-scale=1 maximum-scale=1 user-scalable=0 minimal-ui" />
+    <link rel="stylesheet" href="../../css/style.css" type="text/css" charset="utf-8" />
+	<script src="../../libs/phaser.min.js"></script>
+    <script src="../../libs/phaser-input.min.js"></script>
+    <script src="../../libs/Helper.js"></script>
+    <script src="../../libs/template/Brain.js"></script>
+    <script src="../../libs/template/Title.js"></script>
+    <script src="../../libs/template/Result.js"></script>
+    <script src="../../libs/template/GenericButton.js"></script>
+    <script src="../../libs/template/HudManager.js"></script>
+    <script src="../../libs/template/Star.js"></script>
+    <script src="../../libs/template/InfoItem.js"></script>
+    <script src="src/Preloader.js"></script>
+    <script src="src/Game.js"></script>
+    <script src="src/MenuItem.js"></script>
+    <script src="src/GameManager.js"></script>
+    <script src="src/Ground.js"></script>
+    <script src="src/Beast.js"></script>
+    <script src="src/BeastMenu.js"></script>
+    <script src="src/TopMenu.js"></script>
+    <script src="src/TextBox.js"></script>
+    <script src="src/ScrollBox.js"></script>
+    <script src="src/SliderBar.js"></script>
+    <script src="src/Thought.js"></script>
+    <script src="src/PickAThought.js"></script>
+    <script src="src/RatingOption.js"></script>
+</head>
+<body>   
+    <div id="gameContainer"></div>
+    <input id="hiddenInput" type="text" name="hiddenInput" style="position:absolute; left:-1px; top: -1; width:1px; height:1px; opacity:0"/>
+
+	<div id="orientation"></div>
+<script type="text/javascript">
+
+window.onload = function () 
+{
+    var game = new Phaser.Game(675, 900, Phaser.AUTO, 'gameContainer');
+
+    game.state.add('Boot', Brain.Boot);
+    game.state.add('Preloader', Brain.Preloader);
+    game.state.add('Title', Brain.Title);
+    game.state.add('Game', Brain.Game);
+    game.state.add('PickAThought', Brain.PickAThought);
+    game.state.add('Result', Brain.Result);
+
+    game.state.start('Boot');
+}
+</script>
+
+</body>
+</html>

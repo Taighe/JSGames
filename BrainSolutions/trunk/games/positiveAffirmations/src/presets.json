@@ -1,0 +1,11 @@
+{
+	"Affirmations" : 
+	{		
+		"Confidence": ["I am a confident and positive person", "I am deserving of all things good in my life.", "I am strong.", "I am powerful.", "I am deserving of all things good in my life.", "My intentions ceate my reality.", "I am in charge of my life.", "When I believe in myself, so do others."],
+		"Positivity": ["I can create positive change.", "I choose happiness.", "I am open to new experiences.", "I accept that I cannot control everything.", "I love and appreciate myself.","Life is filled with wonderful suprises.", "I will create opportunities for positive experiences today."],
+		"Relationships": ["My relationships are loving and harmonious.", "I am a positive and valuable contributor to my relationships.", "I am able to articulate my thoughts and feelings and express myself to.", "I choose healthy relationships.", "I can find love and support.", "I am respectful to the ones I love.", "I am grateful for the beautiful relationships in my life.", "I love myself just the way I am.", "I love myself and naturally attract loving relationships.", "I have a good and loving relationship with my spouse."],
+		"Health":["I make healthy choices for myself.", "I deserve to be in perfect health.", "I am higly motivated to exercise because I know exercise keeps me well.", "I love nutritious healthy food and enjoy fresh fruits and vegetables.", "My body is healthy and functioning."],
+		"Stress": ["I am calm and relaxed in every situation.", "My thoughts are under my control.", "My mind is calm.", "I am able to react appropriately to situations.", "I see stressful situations as challenges."],
+		"Work": ["I have a wonderful and satisfying job.", "I am succesful in whatever I do", "I am productive."]
+	}
+}

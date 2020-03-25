@@ -1,0 +1,28 @@
+{"frames": {
+
+"icon-wrong.png":
+{
+	"frame": {"x":0,"y":0,"w":23,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":23},
+	"sourceSize": {"w":23,"h":23}
+},
+"purplecircle.png":
+{
+	"frame": {"x":23,"y":0,"w":23,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":23},
+	"sourceSize": {"w":23,"h":23}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "purplecircle.png",
+	"format": "RGBA8888",
+	"size": {"w":46,"h":23},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:54177ac01668c796bb82a00b84b96597:55d75316e67e0249dde4b4f0f85ed9db:5d89037f96604e6b1ee3e784189e587c$"
+}
+}

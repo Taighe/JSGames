@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "happy6.jpg",
+	"frame": {"x":0,"y":0,"w":480,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":320},
+	"sourceSize": {"w":480,"h":320}
+},
+{
+	"filename": "happy7.jpg",
+	"frame": {"x":0,"y":320,"w":480,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":320},
+	"sourceSize": {"w":480,"h":320}
+},
+{
+	"filename": "happy8.jpg",
+	"frame": {"x":0,"y":640,"w":480,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":320},
+	"sourceSize": {"w":480,"h":320}
+},
+{
+	"filename": "happy9.jpg",
+	"frame": {"x":0,"y":960,"w":480,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":320},
+	"sourceSize": {"w":480,"h":320}
+},
+{
+	"filename": "happy10.jpg",
+	"frame": {"x":0,"y":1280,"w":480,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":320},
+	"sourceSize": {"w":480,"h":320}
+},
+{
+	"filename": "happy11.jpg",
+	"frame": {"x":0,"y":1600,"w":480,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":320},
+	"sourceSize": {"w":480,"h":320}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "happy_outdoor.png",
+	"format": "RGBA8888",
+	"size": {"w":480,"h":1920},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c74b98790fa7a2fcd3686f4f87cdaffc:0c4863209363a3beb9ec6abb0dd23dbc:6ce7dba846e55772c035916b71e8eea8$"
+}
+}

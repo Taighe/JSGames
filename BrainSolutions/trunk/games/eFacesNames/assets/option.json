@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "0.png",
+	"frame": {"x":0,"y":0,"w":38,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":38},
+	"sourceSize": {"w":38,"h":38}
+},
+{
+	"filename": "1.png",
+	"frame": {"x":38,"y":0,"w":37,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":37},
+	"sourceSize": {"w":37,"h":37}
+},
+{
+	"filename": "icon-correct.png",
+	"frame": {"x":75,"y":0,"w":38,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":38},
+	"sourceSize": {"w":38,"h":38}
+},
+{
+	"filename": "icon-wrong.png",
+	"frame": {"x":113,"y":0,"w":38,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":38},
+	"sourceSize": {"w":38,"h":38}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "option.png",
+	"format": "RGBA8888",
+	"size": {"w":151,"h":38},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:167344f11ed73c5647ad47df0b6fb781:6940c51ec52ed9bf1d6fd9c4043df6a8:7481abf1dbd9144796d8c424ca05ce99$"
+}
+}

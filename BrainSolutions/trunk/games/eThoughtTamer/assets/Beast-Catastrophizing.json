@@ -1,0 +1,1532 @@
+{"frames": [
+
+{
+	"filename": "Beast-Catastrophizing-Negative-Active-0001.png",
+	"frame": {"x":1664,"y":450,"w":126,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":126,"h":153},
+	"sourceSize": {"w":133,"h":160}
+},
+{
+	"filename": "Beast-Catastrophizing-Negative-Active-0002.png",
+	"frame": {"x":94,"y":582,"w":121,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":121,"h":153},
+	"sourceSize": {"w":133,"h":160}
+},
+{
+	"filename": "Beast-Catastrophizing-Negative-Active-0003.png",
+	"frame": {"x":563,"y":284,"w":109,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":3,"w":109,"h":153},
+	"sourceSize": {"w":133,"h":160}
+},
+{
+	"filename": "Beast-Catastrophizing-Negative-Active-0004.png",
+	"frame": {"x":674,"y":288,"w":88,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":3,"w":88,"h":153},
+	"sourceSize": {"w":133,"h":160}
+},
+{
+	"filename": "Beast-Catastrophizing-Negative-Active-0005.png",
+	"frame": {"x":1960,"y":1,"w":59,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":3,"w":59,"h":153},
+	"sourceSize": {"w":133,"h":160}
+},
+{
+	"filename": "Beast-Catastrophizing-Negative-Active-0006.png",
+	"frame": {"x":2021,"y":1,"w":21,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":1,"w":21,"h":155},
+	"sourceSize": {"w":133,"h":160}
+},
+{
+	"filename": "Beast-Catastrophizing-Negative-Active-0007.png",
+	"frame": {"x":1996,"y":156,"w":21,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":1,"w":21,"h":155},
+	"sourceSize": {"w":133,"h":160}
+},
+{
+	"filename": "Beast-Catastrophizing-Negative-Active-0008.png",
+	"frame": {"x":1881,"y":296,"w":32,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":0,"w":32,"h":156},
+	"sourceSize": {"w":133,"h":160}
+},
+{
+	"filename": "Beast-Catastrophizing-Negative-Active-0009.png",
+	"frame": {"x":1990,"y":315,"w":51,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":0,"w":51,"h":156},
+	"sourceSize": {"w":133,"h":160}
+},
+{
+	"filename": "Beast-Catastrophizing-Negative-Active-0010.png",
+	"frame": {"x":592,"y":439,"w":77,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":0,"w":77,"h":156},
+	"sourceSize": {"w":133,"h":160}
+},
+{
+	"filename": "Beast-Catastrophizing-Negative-Active-0011.png",
+	"frame": {"x":1193,"y":604,"w":109,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":1,"w":109,"h":155},
+	"sourceSize": {"w":133,"h":160}
+},
+{
+	"filename": "Beast-Catastrophizing-NegativeStanding-0001.png",
+	"frame": {"x":764,"y":290,"w":125,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":15,"w":125,"h":152},
+	"sourceSize": {"w":137,"h":169}
+},
+{
+	"filename": "Beast-Catastrophizing-NegativeStanding-0002.png",
+	"frame": {"x":891,"y":293,"w":124,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":15,"w":124,"h":152},
+	"sourceSize": {"w":137,"h":169}
+},
+{
+	"filename": "Beast-Catastrophizing-NegativeStanding-0003.png",
+	"frame": {"x":1017,"y":293,"w":123,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":15,"w":123,"h":152},
+	"sourceSize": {"w":137,"h":169}
+},
+{
+	"filename": "Beast-Catastrophizing-NegativeStanding-0004.png",
+	"frame": {"x":1142,"y":295,"w":123,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":15,"w":123,"h":152},
+	"sourceSize": {"w":137,"h":169}
+},
+{
+	"filename": "Beast-Catastrophizing-NegativeStanding-0005.png",
+	"frame": {"x":1267,"y":296,"w":122,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":15,"w":122,"h":152},
+	"sourceSize": {"w":137,"h":169}
+},
+{
+	"filename": "Beast-Catastrophizing-NegativeStanding-0006.png",
+	"frame": {"x":1391,"y":296,"w":122,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":15,"w":122,"h":152},
+	"sourceSize": {"w":137,"h":169}
+},
+{
+	"filename": "Beast-Catastrophizing-NegativeStanding-0007.png",
+	"frame": {"x":1515,"y":296,"w":121,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":15,"w":121,"h":152},
+	"sourceSize": {"w":137,"h":169}
+},
+{
+	"filename": "Beast-Catastrophizing-NegativeStanding-0008.png",
+	"frame": {"x":1638,"y":296,"w":120,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":15,"w":120,"h":152},
+	"sourceSize": {"w":137,"h":169}
+},
+{
+	"filename": "Beast-Catastrophizing-NegativeStanding-0009.png",
+	"frame": {"x":217,"y":589,"w":119,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":14,"w":119,"h":153},
+	"sourceSize": {"w":137,"h":169}
+},
+{
+	"filename": "Beast-Catastrophizing-NegativeStanding-0010.png",
+	"frame": {"x":338,"y":590,"w":118,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":14,"w":118,"h":153},
+	"sourceSize": {"w":137,"h":169}
+},
+{
+	"filename": "Beast-Catastrophizing-NegativeStanding-0011.png",
+	"frame": {"x":953,"y":603,"w":118,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":13,"w":118,"h":154},
+	"sourceSize": {"w":137,"h":169}
+},
+{
+	"filename": "Beast-Catastrophizing-NegativeStanding-0012.png",
+	"frame": {"x":102,"y":426,"w":117,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":13,"w":117,"h":154},
+	"sourceSize": {"w":137,"h":169}
+},
+{
+	"filename": "Beast-Catastrophizing-NegativeStanding-0013.png",
+	"frame": {"x":1073,"y":604,"w":118,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":13,"w":118,"h":154},
+	"sourceSize": {"w":137,"h":169}
+},
+{
+	"filename": "Beast-Catastrophizing-NegativeStanding-0014.png",
+	"frame": {"x":458,"y":593,"w":118,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":14,"w":118,"h":153},
+	"sourceSize": {"w":137,"h":169}
+},
+{
+	"filename": "Beast-Catastrophizing-NegativeStanding-0015.png",
+	"frame": {"x":578,"y":598,"w":119,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":14,"w":119,"h":153},
+	"sourceSize": {"w":137,"h":169}
+},
+{
+	"filename": "Beast-Catastrophizing-NegativeStanding-0016.png",
+	"frame": {"x":1760,"y":296,"w":119,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":15,"w":119,"h":152},
+	"sourceSize": {"w":137,"h":169}
+},
+{
+	"filename": "Beast-Catastrophizing-NegativeStanding-0017.png",
+	"frame": {"x":221,"y":435,"w":121,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":15,"w":121,"h":152},
+	"sourceSize": {"w":137,"h":169}
+},
+{
+	"filename": "Beast-Catastrophizing-NegativeStanding-0018.png",
+	"frame": {"x":344,"y":436,"w":122,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":15,"w":122,"h":152},
+	"sourceSize": {"w":137,"h":169}
+},
+{
+	"filename": "Beast-Catastrophizing-NegativeStanding-0019.png",
+	"frame": {"x":468,"y":439,"w":122,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":15,"w":122,"h":152},
+	"sourceSize": {"w":137,"h":169}
+},
+{
+	"filename": "Beast-Catastrophizing-NegativeStanding-0020.png",
+	"frame": {"x":671,"y":444,"w":122,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":15,"w":122,"h":152},
+	"sourceSize": {"w":137,"h":169}
+},
+{
+	"filename": "Beast-Catastrophizing-NegativeStanding-0021.png",
+	"frame": {"x":795,"y":447,"w":123,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":15,"w":123,"h":152},
+	"sourceSize": {"w":137,"h":169}
+},
+{
+	"filename": "Beast-Catastrophizing-NegativeStanding-0022.png",
+	"frame": {"x":920,"y":447,"w":124,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":15,"w":124,"h":152},
+	"sourceSize": {"w":137,"h":169}
+},
+{
+	"filename": "Beast-Catastrophizing-NegativeStanding-0023.png",
+	"frame": {"x":764,"y":290,"w":125,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":15,"w":125,"h":152},
+	"sourceSize": {"w":137,"h":169}
+},
+{
+	"filename": "Beast-Catastrophizing-Positive-Active-0001.png",
+	"frame": {"x":1304,"y":604,"w":109,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":1,"w":109,"h":155},
+	"sourceSize": {"w":138,"h":160}
+},
+{
+	"filename": "Beast-Catastrophizing-Positive-Active-0002.png",
+	"frame": {"x":1,"y":576,"w":91,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":0,"w":91,"h":156},
+	"sourceSize": {"w":138,"h":160}
+},
+{
+	"filename": "Beast-Catastrophizing-Positive-Active-0003.png",
+	"frame": {"x":1792,"y":450,"w":73,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":0,"w":73,"h":156},
+	"sourceSize": {"w":138,"h":160}
+},
+{
+	"filename": "Beast-Catastrophizing-Positive-Active-0004.png",
+	"frame": {"x":1905,"y":466,"w":54,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":0,"w":54,"h":156},
+	"sourceSize": {"w":138,"h":160}
+},
+{
+	"filename": "Beast-Catastrophizing-Positive-Active-0005.png",
+	"frame": {"x":1867,"y":454,"w":36,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":0,"w":36,"h":156},
+	"sourceSize": {"w":138,"h":160}
+},
+{
+	"filename": "Beast-Catastrophizing-Positive-Active-0006.png",
+	"frame": {"x":2019,"y":158,"w":21,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":1,"w":21,"h":155},
+	"sourceSize": {"w":138,"h":160}
+},
+{
+	"filename": "Beast-Catastrophizing-Positive-Active-0007.png",
+	"frame": {"x":1947,"y":156,"w":47,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":3,"w":47,"h":153},
+	"sourceSize": {"w":138,"h":160}
+},
+{
+	"filename": "Beast-Catastrophizing-Positive-Active-0008.png",
+	"frame": {"x":1915,"y":311,"w":73,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":3,"w":73,"h":153},
+	"sourceSize": {"w":138,"h":160}
+},
+{
+	"filename": "Beast-Catastrophizing-Positive-Active-0009.png",
+	"frame": {"x":1,"y":421,"w":99,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":3,"w":99,"h":153},
+	"sourceSize": {"w":138,"h":160}
+},
+{
+	"filename": "Beast-Catastrophizing-Positive-Active-0010.png",
+	"frame": {"x":699,"y":601,"w":125,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":125,"h":153},
+	"sourceSize": {"w":138,"h":160}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0001.png",
+	"frame": {"x":1544,"y":604,"w":108,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0002.png",
+	"frame": {"x":1654,"y":605,"w":107,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":107,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0003.png",
+	"frame": {"x":1867,"y":624,"w":104,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":104,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0004.png",
+	"frame": {"x":1763,"y":608,"w":102,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":102,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0005.png",
+	"frame": {"x":1,"y":737,"w":99,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":99,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0006.png",
+	"frame": {"x":1,"y":737,"w":99,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":99,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0007.png",
+	"frame": {"x":1,"y":737,"w":99,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":99,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0008.png",
+	"frame": {"x":1,"y":737,"w":99,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":99,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0009.png",
+	"frame": {"x":1,"y":737,"w":99,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":99,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0010.png",
+	"frame": {"x":1,"y":737,"w":99,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":99,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0011.png",
+	"frame": {"x":1,"y":737,"w":99,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":99,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0012.png",
+	"frame": {"x":1,"y":737,"w":99,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":99,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0013.png",
+	"frame": {"x":1,"y":737,"w":99,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":99,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0014.png",
+	"frame": {"x":1,"y":737,"w":99,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":99,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0015.png",
+	"frame": {"x":1,"y":737,"w":99,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":99,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0016.png",
+	"frame": {"x":1,"y":737,"w":99,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":99,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0017.png",
+	"frame": {"x":1,"y":737,"w":99,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":99,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0018.png",
+	"frame": {"x":1,"y":737,"w":99,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":99,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0019.png",
+	"frame": {"x":1,"y":737,"w":99,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":99,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0020.png",
+	"frame": {"x":1,"y":737,"w":99,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":99,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0021.png",
+	"frame": {"x":102,"y":737,"w":102,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":102,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0022.png",
+	"frame": {"x":206,"y":744,"w":103,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":103,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0023.png",
+	"frame": {"x":311,"y":745,"w":106,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":106,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0024.png",
+	"frame": {"x":419,"y":748,"w":107,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":107,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0025.png",
+	"frame": {"x":1544,"y":604,"w":108,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0026.png",
+	"frame": {"x":1544,"y":604,"w":108,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0027.png",
+	"frame": {"x":1544,"y":604,"w":108,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0028.png",
+	"frame": {"x":1544,"y":604,"w":108,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0029.png",
+	"frame": {"x":1544,"y":604,"w":108,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0030.png",
+	"frame": {"x":1544,"y":604,"w":108,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0031.png",
+	"frame": {"x":1544,"y":604,"w":108,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0032.png",
+	"frame": {"x":1544,"y":604,"w":108,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0033.png",
+	"frame": {"x":1544,"y":604,"w":108,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0034.png",
+	"frame": {"x":1544,"y":604,"w":108,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-PositiveStanding-0035.png",
+	"frame": {"x":1544,"y":604,"w":108,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":156},
+	"sourceSize": {"w":110,"h":157}
+},
+{
+	"filename": "Beast-Catastrophizing-Start-0001.png",
+	"frame": {"x":555,"y":1090,"w":118,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":373,"w":118,"h":181},
+	"sourceSize": {"w":140,"h":554}
+},
+{
+	"filename": "Beast-Catastrophizing-Start-0002.png",
+	"frame": {"x":1035,"y":1105,"w":118,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":238,"w":118,"h":183},
+	"sourceSize": {"w":140,"h":554}
+},
+{
+	"filename": "Beast-Catastrophizing-Start-0003.png",
+	"frame": {"x":675,"y":1091,"w":118,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":134,"w":118,"h":182},
+	"sourceSize": {"w":140,"h":554}
+},
+{
+	"filename": "Beast-Catastrophizing-Start-0004.png",
+	"frame": {"x":795,"y":1097,"w":118,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":59,"w":118,"h":182},
+	"sourceSize": {"w":140,"h":554}
+},
+{
+	"filename": "Beast-Catastrophizing-Start-0005.png",
+	"frame": {"x":1155,"y":1107,"w":118,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":14,"w":118,"h":183},
+	"sourceSize": {"w":140,"h":554}
+},
+{
+	"filename": "Beast-Catastrophizing-Start-0006.png",
+	"frame": {"x":915,"y":1103,"w":118,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":182},
+	"sourceSize": {"w":140,"h":554}
+},
+{
+	"filename": "Beast-Catastrophizing-Start-0007.png",
+	"frame": {"x":1,"y":1067,"w":117,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":11,"w":117,"h":177},
+	"sourceSize": {"w":140,"h":554}
+},
+{
+	"filename": "Beast-Catastrophizing-Start-0008.png",
+	"frame": {"x":1058,"y":760,"w":115,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":40,"w":115,"h":167},
+	"sourceSize": {"w":140,"h":554}
+},
+{
+	"filename": "Beast-Catastrophizing-Start-0009.png",
+	"frame": {"x":805,"y":756,"w":118,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":78,"w":118,"h":160},
+	"sourceSize": {"w":140,"h":554}
+},
+{
+	"filename": "Beast-Catastrophizing-Start-0010.png",
+	"frame": {"x":826,"y":601,"w":125,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":129,"w":125,"h":153},
+	"sourceSize": {"w":140,"h":554}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0001.png",
+	"frame": {"x":1393,"y":1,"w":112,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":37,"w":112,"h":140},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0002.png",
+	"frame": {"x":1507,"y":1,"w":111,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":37,"w":111,"h":140},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0003.png",
+	"frame": {"x":1620,"y":1,"w":112,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":37,"w":112,"h":140},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0004.png",
+	"frame": {"x":1734,"y":1,"w":111,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":37,"w":111,"h":140},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0005.png",
+	"frame": {"x":566,"y":141,"w":111,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":37,"w":111,"h":141},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0006.png",
+	"frame": {"x":1847,"y":1,"w":111,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":38,"w":111,"h":140},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0007.png",
+	"frame": {"x":1,"y":125,"w":111,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":38,"w":111,"h":140},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0008.png",
+	"frame": {"x":114,"y":131,"w":111,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":38,"w":111,"h":140},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0009.png",
+	"frame": {"x":227,"y":140,"w":112,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":38,"w":112,"h":140},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0010.png",
+	"frame": {"x":341,"y":140,"w":111,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":38,"w":111,"h":140},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0011.png",
+	"frame": {"x":942,"y":1,"w":111,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":39,"w":111,"h":139},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0012.png",
+	"frame": {"x":1055,"y":1,"w":111,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":39,"w":111,"h":139},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0013.png",
+	"frame": {"x":1168,"y":1,"w":111,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":39,"w":111,"h":139},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0014.png",
+	"frame": {"x":1281,"y":1,"w":110,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":39,"w":110,"h":139},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0015.png",
+	"frame": {"x":606,"y":1,"w":110,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":40,"w":110,"h":138},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0016.png",
+	"frame": {"x":718,"y":1,"w":110,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":40,"w":110,"h":138},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0017.png",
+	"frame": {"x":830,"y":1,"w":110,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":40,"w":110,"h":138},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0018.png",
+	"frame": {"x":271,"y":1,"w":110,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":41,"w":110,"h":137},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0019.png",
+	"frame": {"x":383,"y":1,"w":110,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":41,"w":110,"h":137},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0020.png",
+	"frame": {"x":495,"y":1,"w":109,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":41,"w":109,"h":137},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0021.png",
+	"frame": {"x":679,"y":141,"w":109,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":24,"w":109,"h":145},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0022.png",
+	"frame": {"x":1046,"y":449,"w":122,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":7,"w":122,"h":152},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0023.png",
+	"frame": {"x":934,"y":142,"w":122,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":7,"w":122,"h":149},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0024.png",
+	"frame": {"x":790,"y":141,"w":142,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":7,"w":142,"h":147},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0025.png",
+	"frame": {"x":1058,"y":142,"w":122,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":7,"w":122,"h":149},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0026.png",
+	"frame": {"x":1046,"y":449,"w":122,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":7,"w":122,"h":152},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0027.png",
+	"frame": {"x":934,"y":142,"w":122,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":7,"w":122,"h":149},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0028.png",
+	"frame": {"x":790,"y":141,"w":142,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":7,"w":142,"h":147},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0029.png",
+	"frame": {"x":1058,"y":142,"w":122,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":7,"w":122,"h":149},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0030.png",
+	"frame": {"x":1046,"y":449,"w":122,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":7,"w":122,"h":152},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0031.png",
+	"frame": {"x":934,"y":142,"w":122,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":7,"w":122,"h":149},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastCaught-0032.png",
+	"frame": {"x":790,"y":141,"w":142,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":7,"w":142,"h":147},
+	"sourceSize": {"w":205,"h":178}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0001.png",
+	"frame": {"x":1170,"y":450,"w":124,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":133,"w":124,"h":152},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0002.png",
+	"frame": {"x":1415,"y":604,"w":127,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":130,"w":127,"h":155},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0003.png",
+	"frame": {"x":674,"y":756,"w":129,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":126,"w":129,"h":159},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0004.png",
+	"frame": {"x":925,"y":759,"w":131,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":122,"w":131,"h":163},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0005.png",
+	"frame": {"x":1175,"y":761,"w":133,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":118,"w":133,"h":167},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0006.png",
+	"frame": {"x":1548,"y":763,"w":134,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":101,"y":115,"w":134,"h":170},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0007.png",
+	"frame": {"x":951,"y":929,"w":136,"h":172},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":102,"y":113,"w":136,"h":172},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0008.png",
+	"frame": {"x":1446,"y":935,"w":138,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":110,"w":138,"h":175},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0009.png",
+	"frame": {"x":1705,"y":954,"w":139,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":109,"w":139,"h":176},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0010.png",
+	"frame": {"x":120,"y":1075,"w":140,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":108,"w":140,"h":177},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0011.png",
+	"frame": {"x":262,"y":1078,"w":140,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":108,"w":140,"h":177},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0012.png",
+	"frame": {"x":1275,"y":1109,"w":141,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":100,"w":141,"h":183},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0013.png",
+	"frame": {"x":1418,"y":1112,"w":141,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":94,"w":141,"h":187},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0014.png",
+	"frame": {"x":1,"y":1254,"w":151,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":89,"w":151,"h":192},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0015.png",
+	"frame": {"x":479,"y":1273,"w":158,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":84,"w":158,"h":199},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0016.png",
+	"frame": {"x":806,"y":1287,"w":165,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":77,"w":165,"h":207},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0017.png",
+	"frame": {"x":1145,"y":1294,"w":171,"h":213},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":72,"w":171,"h":213},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0018.png",
+	"frame": {"x":1495,"y":1321,"w":175,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":68,"w":175,"h":217},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0019.png",
+	"frame": {"x":1672,"y":1322,"w":178,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":64,"w":178,"h":222},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0020.png",
+	"frame": {"x":1852,"y":1323,"w":180,"h":224},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":62,"w":180,"h":224},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0021.png",
+	"frame": {"x":1,"y":1451,"w":180,"h":225},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":61,"w":180,"h":225},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0022.png",
+	"frame": {"x":1318,"y":1301,"w":175,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":70,"w":175,"h":216},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0023.png",
+	"frame": {"x":973,"y":1290,"w":170,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":78,"w":170,"h":208},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0024.png",
+	"frame": {"x":639,"y":1281,"w":165,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":85,"w":165,"h":201},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0025.png",
+	"frame": {"x":315,"y":1266,"w":162,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":90,"w":162,"h":196},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0026.png",
+	"frame": {"x":154,"y":1257,"w":159,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":94,"w":159,"h":192},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0027.png",
+	"frame": {"x":1876,"y":1132,"w":156,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":97,"w":156,"h":189},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0028.png",
+	"frame": {"x":1718,"y":1132,"w":156,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":98,"w":156,"h":188},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0029.png",
+	"frame": {"x":1561,"y":1132,"w":155,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":99,"w":155,"h":187},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0030.png",
+	"frame": {"x":404,"y":1085,"w":149,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":106,"w":149,"h":179},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0031.png",
+	"frame": {"x":528,"y":753,"w":144,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":125,"w":144,"h":157},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0032.png",
+	"frame": {"x":1,"y":1,"w":139,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":155,"w":139,"h":122},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0033.png",
+	"frame": {"x":142,"y":1,"w":127,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":151,"w":127,"h":128},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0034.png",
+	"frame": {"x":454,"y":140,"w":110,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":142,"w":110,"h":140},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0035.png",
+	"frame": {"x":1,"y":267,"w":103,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":133,"w":103,"h":152},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0036.png",
+	"frame": {"x":457,"y":282,"w":104,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":133,"w":104,"h":152},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0037.png",
+	"frame": {"x":1182,"y":142,"w":105,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":134,"w":105,"h":151},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0038.png",
+	"frame": {"x":1289,"y":143,"w":105,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":134,"w":105,"h":151},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0039.png",
+	"frame": {"x":1396,"y":143,"w":106,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":134,"w":106,"h":151},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0040.png",
+	"frame": {"x":1504,"y":143,"w":107,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":134,"w":107,"h":151},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0041.png",
+	"frame": {"x":1613,"y":143,"w":108,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":134,"w":108,"h":151},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0042.png",
+	"frame": {"x":1723,"y":143,"w":109,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":134,"w":109,"h":151},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0043.png",
+	"frame": {"x":1834,"y":143,"w":111,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":134,"w":111,"h":151},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0044.png",
+	"frame": {"x":106,"y":273,"w":113,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":134,"w":113,"h":151},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0045.png",
+	"frame": {"x":221,"y":282,"w":115,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":134,"w":115,"h":151},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0046.png",
+	"frame": {"x":338,"y":282,"w":117,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":134,"w":117,"h":151},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0047.png",
+	"frame": {"x":1296,"y":450,"w":119,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":133,"w":119,"h":152},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0048.png",
+	"frame": {"x":1417,"y":450,"w":121,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":133,"w":121,"h":152},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0049.png",
+	"frame": {"x":1540,"y":450,"w":122,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":133,"w":122,"h":152},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastClutching-0050.png",
+	"frame": {"x":1170,"y":450,"w":124,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":133,"w":124,"h":152},
+	"sourceSize": {"w":256,"h":290}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastHanging-0001.png",
+	"frame": {"x":1684,"y":766,"w":117,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":24,"w":117,"h":170},
+	"sourceSize": {"w":130,"h":201}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastHanging-0002.png",
+	"frame": {"x":1803,"y":782,"w":116,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":24,"w":116,"h":170},
+	"sourceSize": {"w":130,"h":201}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastHanging-0003.png",
+	"frame": {"x":477,"y":912,"w":117,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":22,"w":117,"h":171},
+	"sourceSize": {"w":130,"h":201}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastHanging-0004.png",
+	"frame": {"x":596,"y":917,"w":116,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":19,"w":116,"h":171},
+	"sourceSize": {"w":130,"h":201}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastHanging-0005.png",
+	"frame": {"x":1089,"y":930,"w":117,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":14,"w":117,"h":173},
+	"sourceSize": {"w":130,"h":201}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastHanging-0006.png",
+	"frame": {"x":1586,"y":938,"w":117,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":9,"w":117,"h":175},
+	"sourceSize": {"w":130,"h":201}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastHanging-0007.png",
+	"frame": {"x":1846,"y":954,"w":117,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":3,"w":117,"h":176},
+	"sourceSize": {"w":130,"h":201}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastHanging-0008.png",
+	"frame": {"x":1327,"y":933,"w":117,"h":174},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":12,"w":117,"h":174},
+	"sourceSize": {"w":130,"h":201}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastHanging-0009.png",
+	"frame": {"x":1208,"y":932,"w":117,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":19,"w":117,"h":173},
+	"sourceSize": {"w":130,"h":201}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastHanging-0010.png",
+	"frame": {"x":714,"y":918,"w":116,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":25,"w":116,"h":171},
+	"sourceSize": {"w":130,"h":201}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastHanging-0011.png",
+	"frame": {"x":832,"y":924,"w":117,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":29,"w":117,"h":171},
+	"sourceSize": {"w":130,"h":201}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastHanging-0012.png",
+	"frame": {"x":1921,"y":782,"w":116,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":31,"w":116,"h":170},
+	"sourceSize": {"w":130,"h":201}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastHanging-0013.png",
+	"frame": {"x":1310,"y":761,"w":117,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":32,"w":117,"h":169},
+	"sourceSize": {"w":130,"h":201}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastHanging-0014.png",
+	"frame": {"x":1429,"y":762,"w":117,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":32,"w":117,"h":169},
+	"sourceSize": {"w":130,"h":201}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastHanging-0015.png",
+	"frame": {"x":1,"y":895,"w":117,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":31,"w":117,"h":170},
+	"sourceSize": {"w":130,"h":201}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastHanging-0016.png",
+	"frame": {"x":120,"y":902,"w":117,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":30,"w":117,"h":170},
+	"sourceSize": {"w":130,"h":201}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastHanging-0017.png",
+	"frame": {"x":239,"y":903,"w":117,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":29,"w":117,"h":170},
+	"sourceSize": {"w":130,"h":201}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastHanging-0018.png",
+	"frame": {"x":358,"y":906,"w":117,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":27,"w":117,"h":170},
+	"sourceSize": {"w":130,"h":201}
+},
+{
+	"filename": "Beast-Catastrophizing-TameBeastHanging-0019.png",
+	"frame": {"x":1684,"y":766,"w":117,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":24,"w":117,"h":170},
+	"sourceSize": {"w":130,"h":201}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Beast-Catastrophizing.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "0.47",
+	"smartupdate": "$TexturePacker:SmartUpdate:cae34d6e4ad0c379ce7dfee9b7abe556:6383285392ddc544ff10fd9b85e4d356:693bbc303befd8e547710294f14996ae$"
+}
+}

@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "button-back-0001.png",
+	"frame": {"x":0,"y":0,"w":37,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":45},
+	"sourceSize": {"w":37,"h":45}
+},
+{
+	"filename": "button-back-0002.png",
+	"frame": {"x":37,"y":0,"w":37,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":45},
+	"sourceSize": {"w":37,"h":45}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "backButton.png",
+	"format": "RGBA8888",
+	"size": {"w":74,"h":45},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b5334dbc418c458c0c710cbcb41d483d:3cf437040e31f6d003910a3f07095937:0bf6244b440a02731ff475f8415c54de$"
+}
+}

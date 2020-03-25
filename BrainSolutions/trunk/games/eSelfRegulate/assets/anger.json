@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "anger0.jpg",
+	"frame": {"x":0,"y":0,"w":480,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":320},
+	"sourceSize": {"w":480,"h":320}
+},
+{
+	"filename": "anger1.jpg",
+	"frame": {"x":0,"y":320,"w":480,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":320},
+	"sourceSize": {"w":480,"h":320}
+},
+{
+	"filename": "anger2.jpg",
+	"frame": {"x":0,"y":640,"w":480,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":320},
+	"sourceSize": {"w":480,"h":320}
+},
+{
+	"filename": "anger3.jpg",
+	"frame": {"x":0,"y":960,"w":480,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":320},
+	"sourceSize": {"w":480,"h":320}
+},
+{
+	"filename": "anger4.jpg",
+	"frame": {"x":0,"y":1280,"w":480,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":320},
+	"sourceSize": {"w":480,"h":320}
+},
+{
+	"filename": "anger5.jpg",
+	"frame": {"x":0,"y":1600,"w":480,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":320},
+	"sourceSize": {"w":480,"h":320}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "anger.png",
+	"format": "RGBA8888",
+	"size": {"w":480,"h":1920},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:571c01d6f10ce6d421c1d8b093b75290:92d94822187d8f729e50ea1ac5e479c3:c7d9d2e5dc45bee565e17584d524a44d$"
+}
+}

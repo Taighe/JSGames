@@ -1,0 +1,164 @@
+{"frames": [
+
+{
+	"filename": "Angela_Happy_0000_Tea_Happy.png",
+	"frame": {"x":0,"y":0,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Angela_Happy_0001_Tara_Happy.png",
+	"frame": {"x":384,"y":0,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Angela_Happy_0002_Siobhan_Happy.png",
+	"frame": {"x":768,"y":0,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Angela_Happy_0003_Sav_Happy.png",
+	"frame": {"x":1152,"y":0,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Angela_Happy_0004_Rachelle_Happy.png",
+	"frame": {"x":1536,"y":0,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Angela_Happy_0005_Patricia_Happy.png",
+	"frame": {"x":0,"y":480,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Angela_Happy_0006_Naliah_Happy.png",
+	"frame": {"x":384,"y":480,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Angela_Happy_0007_Molly_Happy.png",
+	"frame": {"x":768,"y":480,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Angela_Happy_0008_Kimberly_Happy.png",
+	"frame": {"x":1152,"y":480,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Angela_Happy_0009_Jordan_Happy.png",
+	"frame": {"x":1536,"y":480,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Angela_Happy_0010_Jaimie_Happy.png",
+	"frame": {"x":0,"y":960,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Angela_Happy_0011_Jacqueline_Happy.png",
+	"frame": {"x":384,"y":960,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Angela_Happy_0012_Ivy_Happy.png",
+	"frame": {"x":768,"y":960,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Angela_Happy_0013_Emily_Happy.png",
+	"frame": {"x":1152,"y":960,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Angela_Happy_0014_Denise_Happy.png",
+	"frame": {"x":1536,"y":960,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Angela_Happy_0015_Christina_Happy.png",
+	"frame": {"x":0,"y":1440,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Angela_Happy_0016_Belle_Happy.png",
+	"frame": {"x":384,"y":1440,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Angela_Happy_0017_Becca_Happy.png",
+	"frame": {"x":768,"y":1440,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Angela_Happy_0018_Background.png",
+	"frame": {"x":1152,"y":1440,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "female.png",
+	"format": "RGBA8888",
+	"size": {"w":1920,"h":1920},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:81fc49da77dc014737d649d45a3320c5:1e0995ba706ae879205cbde324ed8444:6a7beede78085821b4ebddc5134ac171$"
+}
+}

@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "3.png",
+	"frame": {"x":0,"y":0,"w":119,"h":119},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":119,"h":119},
+	"sourceSize": {"w":119,"h":119}
+},
+{
+	"filename": "4.png",
+	"frame": {"x":119,"y":0,"w":119,"h":119},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":119,"h":119},
+	"sourceSize": {"w":119,"h":119}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "playButton.png",
+	"format": "RGBA8888",
+	"size": {"w":238,"h":119},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:104cbda8238ec9aaa43b96c53daac1cd:e1649afaee3ba9c474d1085e87eb657f:b220e9bf1bc0a44dc4fc070486fa11ed$"
+}
+}

@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Exercise - Word Smith</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1, IE=9">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="apple-mobile-web-app-title" content="MemTask">
+    <meta name="viewport" content="initial-scale=1 maximum-scale=1 user-scalable=0 minimal-ui" />
+    <link rel="stylesheet" href="../../css/style.css" type="text/css" charset="utf-8" />
+    
+	<script src="../../libs/phaser.min.js"></script>
+    <script src="../../libs/progressbar.min.js"></script>
+    <script src="../../libs/Helper.js"></script>
+    <script src="../../libs/template/Brain.js"></script>
+    <script src="../../libs/template/Title.js"></script>
+    <script src="../../libs/template/Result.js"></script>
+    <script src="../../libs/template/GenericButton.js"></script>
+    <script src="../../libs/template/HudManager.js"></script>
+    <script src="../../libs/template/Star.js"></script>
+    <script src="../../libs/template/InfoItem.js"></script>
+    <script src="src/Preloader.js"></script>
+    <script src="src/Game.js"></script>
+    <script src="src/Letter.js"></script>
+    <script src="src/Grid.js"></script>
+</head>
+<body>
+
+	<div id="gameContainer"></div>
+	<div id="orientation"></div>
+
+<script type="text/javascript">
+
+window.onload = function () 
+{
+    var game = new Phaser.Game(675, 900, Phaser.AUTO, 'gameContainer');
+
+    game.state.add('Boot', Brain.Boot);
+    game.state.add('Preloader', Brain.Preloader);
+    game.state.add('Title', Brain.Title);
+    game.state.add('Game', Brain.Game);
+    game.state.add('Result', Brain.Result);
+
+    game.state.start('Boot');
+
+}
+</script>
+
+</body>
+</html>

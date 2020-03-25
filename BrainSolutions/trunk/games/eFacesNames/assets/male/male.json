@@ -1,0 +1,156 @@
+{"frames": [
+
+{
+	"filename": "Abraham_Happy_0000_Gregory_Happy.png",
+	"frame": {"x":0,"y":0,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Abraham_Happy_0001_Evian_Happy.png",
+	"frame": {"x":384,"y":0,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Abraham_Happy_0002_Deniz_Happy.png",
+	"frame": {"x":768,"y":0,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Abraham_Happy_0003_Ben_Happy.png",
+	"frame": {"x":1152,"y":0,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Abraham_Happy_0004_Arye_Happy.png",
+	"frame": {"x":1536,"y":0,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Abraham_Happy_0005_Wayne_Happy.png",
+	"frame": {"x":0,"y":480,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Abraham_Happy_0006_Scot_Happy.png",
+	"frame": {"x":384,"y":480,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Abraham_Happy_0007_Ronnie_Happy.png",
+	"frame": {"x":768,"y":480,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Abraham_Happy_0008_Rick_Happy.png",
+	"frame": {"x":1152,"y":480,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Abraham_Happy_0009_Ray_Happy.png",
+	"frame": {"x":1536,"y":480,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Abraham_Happy_0010_Nick_Happy.png",
+	"frame": {"x":0,"y":960,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Abraham_Happy_0011_Nic_Happy.png",
+	"frame": {"x":384,"y":960,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Abraham_Happy_0012_Michael_Toy_Happy.png",
+	"frame": {"x":768,"y":960,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Abraham_Happy_0013_Michael_Stewart_Happy.png",
+	"frame": {"x":1152,"y":960,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Abraham_Happy_0014_Michael_Happy.png",
+	"frame": {"x":1536,"y":960,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Abraham_Happy_0015_Louis_Happy.png",
+	"frame": {"x":0,"y":1440,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Abraham_Happy_0016_Joseph_Happy.png",
+	"frame": {"x":384,"y":1440,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+},
+{
+	"filename": "Abraham_Happy_0017_Background.png",
+	"frame": {"x":768,"y":1440,"w":384,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":480},
+	"sourceSize": {"w":384,"h":480}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "male.png",
+	"format": "RGBA8888",
+	"size": {"w":1920,"h":1920},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1804004be6898027dfb98943f2e024f5:d5591350bff95c6c778bf4d78841879c:46347cbdf59dfab9f81535329b66a846$"
+}
+}

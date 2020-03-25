@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "greyButton.png",
+	"frame": {"x":0,"y":0,"w":182,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":62},
+	"sourceSize": {"w":182,"h":62}
+},
+{
+	"filename": "purpleButton.png",
+	"frame": {"x":182,"y":0,"w":182,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":62},
+	"sourceSize": {"w":182,"h":62}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "purplebutton.png",
+	"format": "RGBA8888",
+	"size": {"w":364,"h":62},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6a22816a548fa09ffbc0053e50601969:d505531d1fb58d93efc336da3504e727:6d00caa1274770356294a032e6abd161$"
+}
+}
